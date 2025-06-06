@@ -1,0 +1,13 @@
+Hello,
+
+After cloning all repository you must do the following activities
+
+    1.- Install dependences in each repository.
+
+    2.- Configure all .env files in all repository.
+
+    4.- Start all repository
+            - for BACKEND run `npm run dev`
+            - for ADMIM run `compose run dev`
+
+This is all enjoy =)
