@@ -5,7 +5,7 @@ The project involves developing a centralized gateway that acts as a single poin
 
 ## Technologies Used
 - **Admin:** Laravel, React
-- **Backend:** NodeJS, Express
+- **Backend:** NodeJS, Express, PM2
 - **Database:** MongoDB 
 
 ## Key Features
